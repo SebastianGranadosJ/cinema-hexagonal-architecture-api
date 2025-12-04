@@ -1,0 +1,17 @@
+[{
+  "id": "1",
+  "names": "Juan Carlos",
+  "surnames": "Pérez Gómez",
+  "email": {
+    "value": "juan.perez@example.com"
+  },
+  "address": {
+    "street": "Calle 123",
+    "town": "Bogotá",
+    "zip": "110111"
+  },
+  "identification": {
+    "value": "1020304050"
+  }
+}
+]

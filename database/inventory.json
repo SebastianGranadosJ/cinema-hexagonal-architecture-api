@@ -1,0 +1,41 @@
+[
+  {
+    "sku": "asdasdas",
+    "itemId": "ITEM-001",
+    "units": 50,
+    "priceByUnit": 19.99,
+    "location": {
+      "id": "LOC-001",
+      "rack": "RACK-A",
+      "tray": "TRAY-5"
+    },
+    "type": "MOVIE",
+    "isNull": false
+  },
+  {
+    "sku": "1",
+    "itemId": "ITEM-001",
+    "units": 50,
+    "priceByUnit": 19.99,
+    "location": {
+      "id": "LOC-001",
+      "rack": "RACK-A",
+      "tray": "TRAY-5"
+    },
+    "type": "MOVIE",
+    "isNull": false
+  },
+  {
+    "sku": "1",
+    "itemId": "ITEM-001",
+    "units": 50,
+    "priceByUnit": 19.99,
+    "location": {
+      "id": "LOC-001",
+      "rack": "RACK-A",
+      "tray": "TRAY-5"
+    },
+    "type": "MOVIE",
+    "isNull": false
+  }
+]

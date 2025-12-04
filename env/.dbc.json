@@ -1,0 +1,16 @@
+{
+  "SWAPI": {
+    "URL": "https://swapi.info/api"
+  },
+  "RapidAPI": {
+    "URL": "https://api.rapidapi.com"
+  },
+  
+  "MYSQL": {
+    "HOST": "localhost",
+    "USER": "root",
+    "PASSWORD": "...",
+    "DATABASE": "parking",
+    "PORT": 3306
+  }
+}
