@@ -14,7 +14,7 @@ The architecture ensures **high modularity**, **easy testability**, and **clear 
 
 Below is the conceptual model used for the project:
 
-![Hexagonal Architecture](./architecture.png)
+![Hexagonal Architecture](./hexa.png)
 
 > **Note:** The diagram shows the structure of Domain, Application, and Infrastructure, along with Driver/Driven ports and adapters.
 
