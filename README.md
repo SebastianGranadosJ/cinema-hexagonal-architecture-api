@@ -37,7 +37,7 @@ Includes database connectors, JSON managers, error handling, and common value ob
 ## 🧩 Hexagonal Architecture Diagram
 
 
-![Hexagonal Architecture](design/hexa.png)
+![Hexagonal Architecture](./design/hexa.png)
 
 
 > **Note:** The diagram shows the structure of Domain, Application, and Infrastructure, along with Driver/Driven ports and adapters.
@@ -65,7 +65,7 @@ It combines **local movie data** with external information fetched from **SWAPI 
 
 Below is the class diagram representing the internal structure of the Movies module:
 
-![Movies Domain Diagram](design/movies-diagram.jpg)
+![Movies Domain Diagram](./design/movies-diagram.jpg)
 
 Here we can observe the **Movies domain**, with its attributes such as **title**, **synopsis**, **release date**, **genre**, **classification**, **director**, **main cast**, and others.  
 The diagram also shows the definition of the corresponding **Domain Port**, the **Use Case** that implements this port, and the **Controller**, which uses the use case through the port to expose functionality to the API.
